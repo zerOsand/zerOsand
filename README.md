@@ -1,4 +1,7 @@
-<h1 align="center">Hello 👋 My name is Matthew Maillet</h1>
+<h1 align="center">Hello!</h1>
+![Penguin_Waving](https://github.com/user-attachments/assets/9d940894-dd73-43fa-bb8d-274af239fb18)
+
+<h1 My name is Matthew Maillet</h1>
 <h3 align="center">Pursuing a Master's degree in Computer Science at the University of Massachusetts Amherst</h3>
 
 - 🔭 I’m currently working on **DisplayDraw**, and Open-source C++ project that allows users to draw on their screen with a simple, yet effective UI.
