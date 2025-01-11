@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 My name is Matthew Maillet</h1>
-<h3 align="center">Currently pursuing a Master's degree in Computer Science at the University of Massachusetts Amherst</h3>
+<h3 align="center">Pursuing a Master's degree in Computer Science at the University of Massachusetts Amherst</h3>
 
 - 🔭 I’m currently working on **DisplayDraw**, and Open-source C++ project that allows users to draw on their screen with a simple, yet effective UI.
 
