@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, my name is Matthew Maillet</h1>
 <h3 align="center">A Master's in CS student at the University of Massachusetts Amherst</h3>
 
-- 🔭 I’m currently working on **ABC**
+- 🔭 I’m currently working on **DisplayDraw**, and Open-source C++ project that allows users to draw on their screen with a simple, yet effective UI.
 
-- 🌱 I’m currently learning **ABCDEFG**
+- 🌱 I’m currently learning topics about **Computer Vision**, **Machine Learning**, and **Reinforcement Learning**
 
 - 📫 How to reach me **mmaillet155@gmail.com**
 
