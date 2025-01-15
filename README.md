@@ -10,7 +10,7 @@
 
 <h3 align="center">Pursuing a Master's degree in Computer Science at the University of Massachusetts Amherst</h3>
 
-- 🔭 I’m currently working on **DisplayDraw**, and Open-source C++ project that allows users to draw on their screen with a simple, yet effective UI.
+- 🔭 I’m currently working on a Deep Q-Learning program in both Python and C++.
 
 - 🌱 I’m currently learning topics about **Computer Vision**, **Machine Learning**, and **Reinforcement Learning**
 
